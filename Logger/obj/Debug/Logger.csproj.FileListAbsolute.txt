@@ -1,0 +1,26 @@
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\Logger\bin\Debug\Logger.dll.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\Logger\bin\Debug\Logger.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\Logger\bin\Debug\Logger.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\Logger\obj\Debug\Logger.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Project2\Logger\obj\Debug\Logger.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\bin\Debug\Logger.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\bin\Debug\Logger.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\bin\Debug\Logger.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\bin\Debug\BuildServerMessages.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\bin\Debug\BuildServerMessages.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\bin\Debug\BuildServerMessages.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\obj\Debug\Logger.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\Logger\obj\Debug\Logger.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\bin\Debug\Logger.dll.config
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\bin\Debug\Logger.dll
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\bin\Debug\Logger.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\bin\Debug\BuildServerMessages.dll
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\bin\Debug\BuildServerMessages.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\bin\Debug\BuildServerMessages.dll.config
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\obj\Debug\Logger.dll
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\Logger\obj\Debug\Logger.pdb

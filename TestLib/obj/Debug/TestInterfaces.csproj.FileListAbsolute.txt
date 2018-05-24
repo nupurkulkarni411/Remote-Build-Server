@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\SMA\project 2\LoadingTests\TestLib\bin\Debug\TestLib.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\LoadingTests\TestLib\bin\Debug\TestLib.dll
+C:\Users\lenovo\Desktop\SMA\project 2\LoadingTests\TestLib\bin\Debug\TestLib.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\LoadingTests\TestLib\obj\Debug\TestInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SMA\project 2\LoadingTests\TestLib\obj\Debug\TestLib.dll
+C:\Users\lenovo\Desktop\SMA\project 2\LoadingTests\TestLib\obj\Debug\TestLib.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\TestLib\bin\Debug\TestLib.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\TestLib\bin\Debug\TestLib.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\TestLib\bin\Debug\TestLib.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\TestLib\obj\Debug\TestInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\TestLib\obj\Debug\TestLib.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\TestLib\obj\Debug\TestLib.pdb

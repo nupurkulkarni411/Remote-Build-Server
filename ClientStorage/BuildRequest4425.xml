@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BuildRequest>
+  <author>Nupur Kulkarni</author>
+  <timeStamp>2017-12-06T10:07:49.032923-05:00</timeStamp>
+  <tests>
+    <TestElement>
+      <testName>test</testName>
+      <testDriver>TestDriver1.cs</testDriver>
+      <testConfiguration>C#</testConfiguration>
+      <testCodes>
+        <string>CodeToTest1.cs</string>
+        <string>ITest.cs</string>
+      </testCodes>
+    </TestElement>
+    <TestElement>
+      <testName>test</testName>
+      <testDriver>TestDriver2.cs</testDriver>
+      <testConfiguration>C#</testConfiguration>
+      <testCodes>
+        <string>CodeToTest3.cs</string>
+        <string>ITest.cs</string>
+      </testCodes>
+    </TestElement>
+  </tests>
+</BuildRequest>

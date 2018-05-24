@@ -1,0 +1,6 @@
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\bin\Debug\TestDeserialization.exe.config
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\bin\Debug\TestDeserialization.exe
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\bin\Debug\TestDeserialization.pdb
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\obj\Debug\TestDeserialization.exe
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\obj\Debug\TestDeserialization.pdb

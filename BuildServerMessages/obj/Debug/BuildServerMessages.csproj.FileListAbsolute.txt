@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\BuildServerMessages\bin\Debug\BuildServerMessages.dll.config
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\BuildServerMessages\bin\Debug\BuildServerMessages.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\BuildServerMessages\bin\Debug\BuildServerMessages.pdb
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\BuildServerMessages\obj\Debug\BuildServerMessages.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\BuildServerMessages\obj\Debug\BuildServerMessages.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\BuildServerMessages\obj\Debug\BuildServerMessages.dll
+C:\Users\lenovo\Desktop\SMA\project 2\Project2\BuildServerMessages\obj\Debug\BuildServerMessages.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\BuildServerMessages\bin\Debug\BuildServerMessages.dll.config
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\BuildServerMessages\bin\Debug\BuildServerMessages.dll
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\BuildServerMessages\bin\Debug\BuildServerMessages.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\BuildServerMessages\obj\Debug\BuildServerMessages.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\BuildServerMessages\obj\Debug\BuildServerMessages.dll
+C:\Users\lenovo\Desktop\SMA\project 3\Project3\BuildServerMessages\obj\Debug\BuildServerMessages.pdb
